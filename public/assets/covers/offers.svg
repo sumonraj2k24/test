@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Offers cover">
+  <rect width="800" height="500" fill="#8a4b2f"/>
+  <circle cx="250" cy="210" r="130" fill="#f6f1e7"/>
+  <text x="186" y="228" fill="#8a4b2f" font-family="Georgia, serif" font-size="54">$64</text>
+  <rect x="430" y="120" width="250" height="8" fill="#f0d7a2"/>
+  <rect x="430" y="148" width="190" height="8" fill="#f6f1e7"/>
+  <rect x="430" y="176" width="220" height="8" fill="#f6f1e7"/>
+  <rect x="430" y="230" width="140" height="40" fill="#f0d7a2"/>
+  <text x="70" y="430" fill="#f6f1e7" font-family="Georgia, serif" font-size="28" letter-spacing="3">OFFERS</text>
+</svg>

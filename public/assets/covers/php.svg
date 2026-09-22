@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="PHP cover">
+  <rect width="800" height="500" fill="#243044"/>
+  <rect x="56" y="56" width="500" height="300" fill="#1b1814"/>
+  <text x="80" y="110" fill="#e7c36a" font-family="ui-monospace, Menlo, monospace" font-size="18">namespace App\Http;</text>
+  <text x="80" y="150" fill="#f6f1e7" font-family="ui-monospace, Menlo, monospace" font-size="18">class Checkout</text>
+  <text x="80" y="190" fill="#8fb8c9" font-family="ui-monospace, Menlo, monospace" font-size="18">  public function pay()</text>
+  <text x="80" y="230" fill="#c9bfb0" font-family="ui-monospace, Menlo, monospace" font-size="18">  { /* the boundary */ }</text>
+  <rect x="590" y="80" width="140" height="140" fill="#e7c36a"/>
+  <text x="56" y="430" fill="#f4f0e6" font-family="Georgia, serif" font-size="28" letter-spacing="3">PHP</text>
+</svg>

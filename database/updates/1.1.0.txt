@@ -1,0 +1,1 @@
+Lesson notes. Students can keep a private note on each lesson from the player. Notes stay with the learner and are not visible to instructors.

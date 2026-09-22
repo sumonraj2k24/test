@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Dashboards cover">
+  <rect width="800" height="500" fill="#1e3f4a"/>
+  <rect x="70" y="80" width="90" height="250" fill="#d7ebe4"/>
+  <rect x="180" y="150" width="90" height="180" fill="#f0d7a2"/>
+  <rect x="290" y="110" width="90" height="220" fill="#f6f1e7"/>
+  <rect x="400" y="190" width="90" height="140" fill="#8fb8c9"/>
+  <rect x="510" y="60" width="90" height="270" fill="#e7c36a"/>
+  <rect x="70" y="340" width="530" height="4" fill="#f6f1e7"/>
+  <text x="70" y="420" fill="#f6f1e7" font-family="Georgia, serif" font-size="28" letter-spacing="3">SIGNAL</text>
+</svg>
