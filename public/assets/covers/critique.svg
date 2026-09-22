@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Critique cover">
+  <rect width="800" height="500" fill="#5c3d4e"/>
+  <rect x="90" y="64" width="470" height="320" fill="#f6f1e7"/>
+  <rect x="118" y="100" width="90" height="8" fill="#5c3d4e"/>
+  <rect x="118" y="140" width="390" height="10" fill="#1b1814"/>
+  <rect x="118" y="168" width="340" height="8" fill="#c9beab"/>
+  <rect x="118" y="192" width="360" height="8" fill="#c9beab"/>
+  <rect x="118" y="248" width="250" height="70" fill="#e7c9b0"/>
+  <path d="M520 90 l70 40 -70 40z" fill="#e7c36a"/>
+  <text x="90" y="440" fill="#f6f1e7" font-family="Georgia, serif" font-size="28" letter-spacing="3">CRITIQUE</text>
+</svg>

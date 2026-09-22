@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Queues cover">
+  <rect width="800" height="500" fill="#2c3338"/>
+  <rect x="80" y="80" width="460" height="64" fill="#f3efe6"/>
+  <rect x="110" y="168" width="430" height="64" fill="#c9bfb0"/>
+  <rect x="150" y="256" width="390" height="64" fill="#e7c36a"/>
+  <rect x="200" y="344" width="120" height="36" fill="#9d3b2c"/>
+  <text x="80" y="450" fill="#f3efe6" font-family="Georgia, serif" font-size="28" letter-spacing="3">QUEUES</text>
+</svg>

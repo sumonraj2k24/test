@@ -1,0 +1,20 @@
+{
+    "name": "meridian/learn",
+    "description": "Meridian — a modular online learning platform for students, instructors, and administrators.",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/Support/helpers.php"
+        ]
+    },
+    "scripts": {
+        "serve": "php -S 0.0.0.0:8080 -t public public/router.php"
+    }
+}

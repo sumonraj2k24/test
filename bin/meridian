@@ -1,0 +1,27 @@
+#!/usr/bin/env php
+<?php
+
+declare(strict_types=1);
+
+$root = dirname(__DIR__);
+$php = PHP_BINARY;
+$command = $argv[1] ?? 'help';
+
+switch ($command) {
+    case 'serve':
+        $port = $argv[2] ?? '8080';
+        passthru(escapeshellarg($php) . ' -S 0.0.0.0:' . escapeshellarg($port) . ' -t ' . escapeshellarg($root . '/public') . ' ' . escapeshellarg($root . '/public/router.php'));
+        break;
+    case 'backup':
+        $app = require $root . '/bootstrap/app.php';
+        $backup = App\Services\BackupService::create(null);
+        echo "Wrote {$backup['filename']}\n";
+        break;
+    case 'update':
+        require $root . '/bootstrap/app.php';
+        App\Core\Database::pdo();
+        echo App\Services\UpdateService::applyNext(null) . " applied\n";
+        break;
+    default:
+        echo "Meridian\n  serve [port]   Start the web server\n  backup         Copy the SQLite database\n  update         Apply the next database update\n";
+}

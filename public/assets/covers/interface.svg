@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Interface cover">
+  <rect width="800" height="500" fill="#1f4f45"/>
+  <rect x="70" y="70" width="420" height="280" fill="#f6f1e7"/>
+  <rect x="98" y="104" width="160" height="12" fill="#1f4f45"/>
+  <rect x="98" y="132" width="280" height="8" fill="#c9beab"/>
+  <rect x="98" y="154" width="220" height="8" fill="#c9beab"/>
+  <rect x="98" y="210" width="150" height="78" fill="#e7c36a"/>
+  <rect x="264" y="210" width="150" height="36" fill="#1f4f45"/>
+  <rect x="264" y="256" width="150" height="32" fill="#d7ebe4"/>
+  <circle cx="640" cy="150" r="92" fill="#f3e2c0"/>
+  <text x="70" y="430" fill="#f6f1e7" font-family="Georgia, serif" font-size="28" letter-spacing="3">INTERFACE</text>
+</svg>

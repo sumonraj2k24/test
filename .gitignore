@@ -1,0 +1,15 @@
+/storage/*.sqlite
+/storage/*.sqlite-*
+/storage/backups/*
+!/storage/backups/.gitkeep
+/storage/logs/*
+!/storage/logs/.gitkeep
+/storage/mail/*
+!/storage/mail/.gitkeep
+/storage/sessions/*
+!/storage/sessions/.gitkeep
+/public/uploads/*
+!/public/uploads/.gitkeep
+/vendor/
+.DS_Store
+.env
